@@ -1,7 +1,6 @@
 # Capstone_Project_IBM_Applied_Data
 
-Capstone Project as part of the IBM Applied Data Science Professional Certificate.
-
+Capstone Project completed as part of the IBM Applied Data Science Professional Certificate.
 
 Prediciting the optimal location to open a Clothing Store in London, UK.
 

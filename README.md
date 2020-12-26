@@ -15,31 +15,53 @@ https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/REPORT_
 https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/POWERPOINT_IBM_Applied_Data_Capstone.pptx
 
 
+![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure10.png)
+*Final map showing most promising areas to open a clothing store*
+
+![Hexagon cell layout of London, UK](*https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure13.png)
+*Map showing target cluster containing the 3 most hexagon cells in detail*
+
 ![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure1.png)
-"Map showing hexagon cell grid covering London"
+*Map showing hexagon cell grid covering London*
+
 
 ![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure2.png)
-"Map showing all clothing stores in London"
+*Map showing all clothing stores in London*
+
 
 ![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure3.png)
-"Heatmap showing where clothing stores are concentrated within the city"
+*Heatmap showing where clothing stores are concentrated within the city*
+
 
 ![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure4.png)
+*Map showing where all shopping malls are located in London*
+
 
 ![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure%208.png)
+*Map showing income distribution*
+
 
 ![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure6.png)
+*Map showing density distribution*
 
-![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure10.png)
 
 ![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure10.2.png)
+*Map showing most promising areas to open a clothing store*
+
 
 ![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure12.png)
+*Map showing target cluster and heatmap of clothing stores/shopping malls
 
-![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure13.png)
+
+![Hexagon cell layout of London, UK](*https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure13.png)
+*Map showing target cluster containing the 3 most hexagon cells in detail*
+
 
 ![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure11.png)
+*Bar charts showing frequency of shops and malls, and census data*
+
 
 ![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/ssd.png)
+*Graph showing Sum of Squared Distance and Silhouette score as K increases*
 
 

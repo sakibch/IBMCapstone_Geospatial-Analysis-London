@@ -16,10 +16,13 @@ https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/POWERPO
 
 
 ![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure1.png)
+"Map showing hexagon cell grid covering London"
 
 ![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure2.png)
+"Map showing all clothing stores in London"
 
 ![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure3.png)
+"Heatmap showing where clothing stores are concentrated within the city"
 
 ![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure4.png)
 

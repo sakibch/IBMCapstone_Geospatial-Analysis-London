@@ -1,4 +1,4 @@
-# Capstone_Project_IBM_Applied_Data
+# Capstone Project - Battle of the Neighbourhoods
 
 This repository is for a Capstone Project I completed as part of the **IBM Applied Data Science Professional Certificate**. Certificate:
 https://coursera.org/share/ef7ce3247cc11900209e8ea1b0116a96

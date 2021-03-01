@@ -5,13 +5,13 @@ https://coursera.org/share/ef7ce3247cc11900209e8ea1b0116a96
 
 **The goal of this project is to predict the optimal location to open a Clothing Store in London using K-means Clustering and Foursquare API.**
 
-**Notebook** with figures displayed can be accessed here: 
+**Notebook**: 
 https://nbviewer.jupyter.org/github/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/IBM_Applied_Data_Capstone_London.ipynb
 
-**Final Report** can be accessed here:
+**Final Report**:
 https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/REPORT_CapstoneProject_SakibChughtai.pdf
 
-**Powerpoint Presentation** can be accessed here:
+**Powerpoint Presentation**:
 https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/POWERPOINT_IBM_Applied_Data_Capstone.pptx
 
 

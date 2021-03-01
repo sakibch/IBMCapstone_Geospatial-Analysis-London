@@ -12,7 +12,7 @@ https://nbviewer.jupyter.org/github/sakibch/Capstone_Project_IBM_Applied_Data/bl
 https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/REPORT_CapstoneProject_SakibChughtai.pdf
 
 **Powerpoint Presentation**:
-https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/POWERPOINT_IBM_Applied_Data_Capstone.pptx
+https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/POWERPOINT_Capstone_SakibChughtai.pptx
 
 
 ![Hexagon cell layout of London, UK](https://github.com/sakibch/Capstone_Project_IBM_Applied_Data/blob/master/all_figures/figure10.png)

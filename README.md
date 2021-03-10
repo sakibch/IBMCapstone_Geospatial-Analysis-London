@@ -1,6 +1,8 @@
-# Capstone Project - Battle of the Neighbourhoods
+# CAPSTONE PROJECT - IBM APPLIED DATA 
 
-This repository is for a Capstone Project I completed as part of the **IBM Applied Data Science Professional Certificate**. Certificate:
+# Geospatial Analysis - Opening a clothing store in London, UK
+
+This repository is for a Capstone Project I completed as part of the IBM Applied Data Science Professional Certificate. Certificate:
 https://coursera.org/share/ef7ce3247cc11900209e8ea1b0116a96
 
 **The goal of this project is to predict the optimal location to open a Clothing Store in London using K-means Clustering and Foursquare API.**

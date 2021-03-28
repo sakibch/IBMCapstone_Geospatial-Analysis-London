@@ -1,4 +1,4 @@
-# CAPSTONE PROJECT - IBM APPLIED DATA 
+**CAPSTONE PROJECT - IBM APPLIED DATA** 
 
 # Geospatial Analysis - Opening a clothing store in London, UK
 

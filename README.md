@@ -5,7 +5,7 @@
 This repository is for a Capstone Project completed as part of the IBM Applied Data Science Professional Certificate. Certificate:
 https://coursera.org/share/ef7ce3247cc11900209e8ea1b0116a96
 
-**The goal of this project is to predict the optimal location to open a Clothing Store in London using K-means Clustering and Foursquare API.**
+**The goal of the model is to predict the optimal location to open a Clothing Store in London using K-means Clustering and Foursquare API.**
 
 **Notebook**: 
 https://nbviewer.jupyter.org/github/sakibch/IBMCapstone_Geospatial-Analysis-London/blob/master/IBM_Applied_Data_Capstone_London.ipynb
